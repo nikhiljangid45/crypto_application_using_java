@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectCrypto App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Enter the name\n</string>
+    <string name="not_found">note found\n\n</string>
+    <string name="_15m">15 min\n</string>
+    <string name="_1h">1 hour\n</string>
+    <string name="_4h">4 hour</string>
+    <string name="_1d">1 day</string>
+    <string name="_1w">1 week\n</string>
+    <string name="_1m">1 min</string>
+    <string name="empty_watchlist">watch List\n</string>
+
+</resources>
